@@ -62,27 +62,3 @@ This flowgraph appears to be a separate or intermediate flowgraph related to aud
 
 1.  Open `sound.grc` to test the audio signal flow and ensure proper sample rate conversion between audio devices and the SDR flowgraphs.
 
-## Project Documentation
-
-The repository should also contain the official project documents for context and detailed analysis:
-
-* [`Project Description.pdf`](./Project%20Description.pdf): The initial project outline, tasks, and deliverables.
-* [`communication_project_report.pdf`](./communication_project_report.pdf): The final project report, written in IEEE format, which details the system design, experimental results, spectral analysis, and parameter tuning process.
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details (you should create a `LICENSE` file and add the MIT license text).
-
----
-
-## Contributing
-
-While this is a course project, feel free to fork the repository and explore improvements, such as implementing different modulation schemes (e.g., DSB-SC, FM) or optimizing the filter designs.
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
